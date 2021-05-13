@@ -1,0 +1,11 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "markov project for Springboard.",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MR",
+  "license": "ISC"
+}
